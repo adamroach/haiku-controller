@@ -33,11 +33,11 @@ screws at a local hardware store.
 |-------:|------------------------|--------:|--------:|-------------------------------------|
 |       1|PI Zero W               |    $5.00|    $5.00|Source Locally                       |
 |       1|16 GB Micro SD          |    $3.00|    $3.00|Source Locally                       |
-|    25 g|PLA                     |   $15.99|    $0.40|https://www.amazon.com/gp/B00ME7E5X0/|
-|       2|3x7 mm proto boards     |   $11.65|    $0.93|https://www.amazon.com/gp/B07FK3NLFZ/|
-|      12|M2x6 screws             |    $8.99|    $0.27|https://www.amazon.com/gp/B07K8G6VF2/|
+|    25 g|PLA                     |   $15.99|    $0.40|https://www.amazon.com/dp/B00ME7E5X0/|
+|       2|3x7 mm proto boards     |   $11.65|    $0.93|https://www.amazon.com/dp/B07FK3NLFZ/|
+|      12|M2x6 screws             |    $8.99|    $0.27|https://www.amazon.com/dp/B07K8G6VF2/|
 |       4|1/8th watt 1kΩ resistors|    $6.78|    $0.27|https://www.amazon.com/dp/B0185FIJ9A/|
-|       4|6x6x5mm push buttons    |    $6.99|    $0.47|https://www.amazon.com/gp/B07H547BTV/|
+|       4|6x6x5mm push buttons    |    $6.99|    $0.47|https://www.amazon.com/dp/B07H547BTV/|
 |   12 cm|2mm inch shrink tubing  |    $6.99|    $0.09|https://www.amazon.com/dp/B00EXLPLTW/|
 |       1|5v Power Supply         |    $9.92|    $4.96|https://www.amazon.com/dp/B073QH1XT8/|
 |**Total**|                       |**$75.31**|**$15.39**|                                   |

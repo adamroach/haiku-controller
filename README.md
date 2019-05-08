@@ -1,5 +1,5 @@
 # Haiku Controller
-Open Hardware Design for Controller for Big Ass Fan's "Haiku" Fans
+Open Hardware Design for Controller for [Big Ass Fan's "Haiku" Fans](https://www.bigassfans.com/for-home/)
 
 I'm still getting this set up. Please stand by.
 

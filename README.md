@@ -19,6 +19,15 @@ price you'll pay for the materials.  With luck, you'll either have some of
 these things lying around, or you'll be able to find them in smaller
 quantities than is available from Amazon.
 
+The Pi Zero W is generally available from around $10 online, but can be found
+in many brick-and-mortar stores for $5. If you're lucky enough to live near
+a [Microcenter](https://www.microcenter.com/), they're a reliable source for
+inexpensive Pi Zero W's (and several of the other listed components, too).
+
+If you're replacing an existing switch, re-use its mounting screws to put the
+switch in the electrical box. Otherwise, you may need to pick up two #6-32 x 1½"
+screws at a local hardware store.
+
 
 |Quantity|Item                    |Min. Cost|Unit Cost|Source                               |
 |-------:|------------------------|--------:|--------:|-------------------------------------|
@@ -32,3 +41,5 @@ quantities than is available from Amazon.
 |   12 cm|2mm inch shrink tubing  |    $6.99|    $0.09|https://www.amazon.com/dp/B00EXLPLTW/|
 |       1|5v Power Supply         |    $9.92|    $4.96|https://www.amazon.com/dp/B073QH1XT8/|
 |**Total**|                       |**$75.31**|**$15.39**|                                   |
+
+

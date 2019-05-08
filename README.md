@@ -43,3 +43,18 @@ screws at a local hardware store.
 |**Total**|                       |**$75.31**|**$15.39**|                                   |
 
 
+## Soldering the Components
+
+*TBD*
+
+## Printing and Assembling the Switch
+
+*TBD*
+
+## Setting up the Rasbperry Pi
+
+*TBD*
+
+## Final Installation
+
+*TBD*

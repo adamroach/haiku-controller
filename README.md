@@ -38,7 +38,7 @@ screws at a local hardware store.
 |       4|1/8th watt 1kΩ resistors|    $6.78|    $0.27|https://www.amazon.com/dp/B0185FIJ9A/|
 |       4|6x6x5mm push buttons    |    $6.99|    $0.47|https://www.amazon.com/dp/B07H547BTV/|
 |   12 cm|2mm inch shrink tubing  |    $6.99|    $0.09|https://www.amazon.com/dp/B00EXLPLTW/|
-|       1|5v Power Supply         |    $9.92|    $4.96|https://www.amazon.com/dp/B073QH1XT8/|
+|       1|5v Power Supply (HLK-PM01)|  $9.92|    $4.96|https://www.amazon.com/dp/B073QH1XT8/|
 |**Total**|                       |**$75.31**|**$15.39**|                                   |
 
 

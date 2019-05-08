@@ -48,6 +48,14 @@ screws at a local hardware store.
 
 ## Printing and Assembling the Switch
 
+If you have a 3D printer, you can either start with the `two-switch.scad` file in the
+`scad` directory and render your own model, or you can [download a pre-rendered model
+from Thingiverse](https://www.thingiverse.com/thing:3615419). I've designed things so
+that you shouldn't have to use any support material. Due to the relatively tight
+tolerances, I would recommend using PLA as your material. PETG might work, although
+I'm unsure about its ability to make the long bridges necessary for the front plate.
+ABS is likely to warp too badly to be usable.
+
 If you don't have a 3D printer, there are [services available via
 Thingiverse](https://www.thingiverse.com/apps/3d-print-with-print-a-thing/run?thing_id=3615419)
 that will print and ship items to you. The 3D model used for this

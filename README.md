@@ -10,8 +10,7 @@ links to Amazon for any components that are available there. I encourge you to
 look around at local maker and hobbiest shops, though, as they frequently have
 better prices. Beyond those things listed here, you'll also need a small
 quantity of wire, some solder, and a handful of tools like a jewelers'
-screwdriver and a soldering iron. And, of course, you'll need access to a 3D
-printer.
+screwdriver and a soldering iron.
 
 The "Min Cost" column represents the price of the smallest quantity of the
 specific item *available from Amazon*, and is meant to represent the maximum
@@ -48,6 +47,12 @@ screws at a local hardware store.
 *TBD*
 
 ## Printing and Assembling the Switch
+
+If you don't have a 3D printer, there are [services available via
+Thingiverse](https://www.thingiverse.com/apps/3d-print-with-print-a-thing/run?thing_id=3615419)
+that will print and ship items to you. The 3D model used for this
+project cost around $16 or so via such services when I last checked.
+
 
 *TBD*
 

@@ -1,7 +1,41 @@
 # Haiku Controller
 Open Hardware Design for Controller for [Big Ass Fan's "Haiku" Fans](https://www.bigassfans.com/for-home/)
 
-I'm still getting this set up. Please stand by.
+*I'm still getting this set up. Please stand by.*
+
+Big Ass Fans has entered the home market with a line of exceptionally efficient
+and visually attractive fans. The main (more expensive) *Haiku* line comes standard
+with a WiFi interface that allows control from smartphones as well as integration
+with home assistants like Amazon Alexa and Google Home. Aside from this, however,
+the only way to control the fan is with a line-of-sight IR remote that is easy to
+misplace. The lower-end *Haiku L* fans have an
+[optional WiFi module](https://store.bigassfans.com/en_us/haiku-wifi-module-for-l-series-ceiling-fan-1)
+to provide this integration. They also allow use of an
+[in-wall controller](https://store.bigassfans.com/en_us/haiku-wired-wall-control-1)
+that sells for $100, and requires the optional WiFi module to be installed.
+Oddly, this in-wall controller is not available for the more-expensive *Haiku* line
+of fans.
+
+I have one of each kind of fan in my house, and became fed up with the state of
+things: to control the fan from both entrances to the bedroom, I would need to
+spend an additional $200 on in-wall controllers. And for the 84-inch monster in
+the den, there was simply no option for control: I'm stuck with the remote. So
+I decided to make my own in-wall controllers.
+
+Luckily, the protocol used to control the fans via WiFi is a very simple, UDP-based
+protocol. Even better, someone has already put together a [complete Node.js API
+for interfacing with them](https://github.com/sean9keenan/BigAssFansAPI), which
+makes our task much easier.
+
+I'm putting my work out in this repository to help other people out who have found
+themselves in a similar situation. Even in the worst case, you should end up
+spending less than the $100 that the official in-wall controller costs. Plus, if
+you're willing to do a little hacking, you can customize things to look and behave
+however you want.
+
+I'd love to hear from you if you find this work useful, especially if you make
+modifications to either the design or the software. Pull requests will be
+graciously accepted.
 
 ## Manifest
 

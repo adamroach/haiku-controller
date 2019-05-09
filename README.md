@@ -80,6 +80,9 @@ screws at a local hardware store.
 
 *TBD*
 
+<p align="center"><img src="images/button-solder-connections.jpg?raw=true" width="50%" height="50%" />
+<br /><i>Connecting the Buttons</i></p>
+
 ## Printing and Assembling the Switch
 
 If you have a 3D printer, you can either start with the `two-switch.scad` file in the
